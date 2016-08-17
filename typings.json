@@ -1,0 +1,18 @@
+{
+  "globalDevDependencies": {
+    "core-js": "registry:dt/core-js#0.0.0+20160602141332",
+    "mocha": "registry:dt/mocha#2.2.5+20160619032855"
+  },
+  "devDependencies": {
+    "chai": "registry:npm/chai#3.5.0+20160415060238",
+    "chai-as-promised": "registry:npm/chai-as-promised#5.1.0+20160310030142",
+    "es6-promise": "registry:npm/es6-promise#3.0.0+20160723033700",
+    "history": "registry:npm/history#2.0.0+20160607172317",
+    "sinon": "registry:npm/sinon#1.16.0+20160723033700",
+    "sinon-chai": "registry:npm/sinon-chai#2.8.0+20160310030142"
+  },
+  "globalDependencies": {
+    "webpack-env": "registry:dt/webpack-env#1.12.2+20160316155526",
+    "xregexp": "registry:dt/xregexp#3.0.0+20160317120654"
+  }
+}
